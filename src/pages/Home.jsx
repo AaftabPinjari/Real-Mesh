@@ -18,7 +18,7 @@ function Home() {
         // className: 'center',
         autoplay: true,
         speed: 500,
-        autoplaySpeed: 3000,
+        autoplaySpeed: 1000,
         cssEase: "ease-in-out"
     };
     return (

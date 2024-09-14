@@ -5,11 +5,11 @@ import { abouts } from "../data"
 
 function About() {
     return (
-        <section className="min-h-screen flex flex-col items-center">
+        <section className="flex flex-col items-center">
             <h1 className="text-center my-5 text-xl font-bold lg:text-3xl">
                 Mesh Agro industries</h1>
             <h1 className="text-center my-5 text-xl font-bold lg:text-3xl">
-                Our Leaders</h1>
+                Our Founders</h1>
             <div className="flex w-full justify-evenly my-10">
                 <div className="flex flex-col  items-center text-xl">
                     <img className="rounded-full shadow-2xl border border-gray-500 h-28 w-2h-28 lg:h-48 lg:w-48" src="https://i.ibb.co/pQb7RM4/yunus-profile.jpg" alt="yunus shafi mansuri" />
