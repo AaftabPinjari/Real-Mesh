@@ -28,7 +28,7 @@ function Products() {
     return (
         <section className="my-6 min-h-screen">
             {/**Categories */}
-            <ul className="flex flex-wrap gap-3 justify-center ">
+            <ul className="text-sm lg:text-lg flex flex-wrap gap-3 justify-center ">
                 <button onClick={() => handleAllClick()}>
                     <li className={`rounded-sm px-4 py-2 ${clicked ? "border border-gray-400 hover:bg-gray-200" : "bg-black text-white"}`}>
                         All
@@ -46,7 +46,7 @@ function Products() {
                 ))}
             </ul>
             {/**Products */}
-            <div className="flex flex-wrap my-8 gap-5 justify-center">
+            <div className="text-xs md:text-sm lg:text-lg flex flex-wrap my-8 gap-5 justify-center">
                 {filteredProducts.map(product => (
                     <ProductCard key={product.id} product={product} />
                 ))}
