@@ -34,9 +34,9 @@ function Contact() {
 
     return (
         <section
-            className="min-h-screen flex flex-col items-center justify-evenly
+            className=" flex flex-col items-center justify-center gap-3
         ">
-            <h1 className="text-lg lg:text-2xl font-semibold">Enter Your Order Details Here</h1>
+            <h1 className="text-lg lg:text-2xl font-semibold mt-6">Enter Your Order Details Here</h1>
             <form className="flex text-black flex-col gap-3" onSubmit={onSubmit}>
                 <label>Enter Your Name:</label>
                 <input required placeholder="Name" className="md:w-72 lg:w-96 px-3 py-2 border border-gray-400" type="text" name="name" />
