@@ -11,7 +11,7 @@ function Home() {
     const settings = {
         dots: false,
         infinite: true,
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 1,
         // centerMode: true,
         // centerPadding: "60px",
