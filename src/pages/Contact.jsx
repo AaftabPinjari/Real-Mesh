@@ -39,7 +39,7 @@ function Contact() {
             <h1 className="text-lg font-semibold">Enter Your Order Details Here</h1>
             <form className="flex text-black flex-col gap-3" onSubmit={onSubmit}>
                 <label>Enter Your Name:</label>
-                <input required placeholder="Name" className="w-96 px-3 py-2 border border-gray-400" type="text" name="name" />
+                <input required placeholder="Name" className="max-w-96 px-3 py-2 border border-gray-400" type="text" name="name" />
                 <label>Enter Your Phone Number:</label>
                 <input required placeholder="Phone No." className="px-3 py-2 border border-gray-400" type="number" maxLength={10} name="Phone Number" />
                 <label>Enter Your Order Details:</label>
