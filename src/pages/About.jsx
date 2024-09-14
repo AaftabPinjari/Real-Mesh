@@ -12,12 +12,12 @@ function About() {
                 Our Leaders</h1>
             <div className="flex w-full justify-evenly my-10">
                 <div className="text-xl">
-                    <img className="rounded-full shadow-2xl border border-gray-500 h-36 w-36 lg:h-48 lg:w-48" src="https://i.ibb.co/pQb7RM4/yunus-profile.jpg" alt="yunus shafi mansuri" />
+                    <img className="rounded-full shadow-2xl border border-gray-500 h-28 w-2h-28 lg:h-48 lg:w-48" src="https://i.ibb.co/pQb7RM4/yunus-profile.jpg" alt="yunus shafi mansuri" />
                     <h2 className="text-center mt-3 font-semibold">Yunus Shafi mansuri</h2>
                     <h2 className="text-center mt-3 font-semibold">CEO</h2>
                 </div>
                 <div className="text-xl">
-                    <img className="rounded-full shadow-2xl border border-gray-500 h-36 w-36 lg:h-48 lg:w-48" src="https://i.ibb.co/TK4X8kM/rafik-profile.jpg" alt="rafik shafi mansuri" />
+                    <img className="rounded-full shadow-2xl border border-gray-500 h-28 w-2h-28 lg:h-48 lg:w-48" src="https://i.ibb.co/TK4X8kM/rafik-profile.jpg" alt="rafik shafi mansuri" />
                     <h2 className="text-center mt-3 font-semibold">Rafik Shafi mansuri</h2>
                     <h2 className="text-center mt-3 font-semibold">CFO</h2>
                 </div>

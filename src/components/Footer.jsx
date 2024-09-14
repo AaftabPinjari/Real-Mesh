@@ -13,7 +13,7 @@ function Footer() {
                     <Link className="hover:text-gray-500" to="/contact">Contact Us</Link>
 
                 </div>
-                <div className="flex flex-col gap-1 mr-2">
+                <div className="flex flex-col gap-1 ml-2">
                     <h1 className="font-bold">Reach Us</h1>
                     <p>794 Musalman Wada Sakali Jalgaon,
                     </p><p>
