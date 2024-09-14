@@ -5,7 +5,7 @@ function ProductCard({ product }) {
     return (
         <Link to={`/products/${product.id}`}>
             <div
-                className="h-52 w-56 hover:bg-gray-100  py-2 px-1 rounded-lg flex gap-3 flex-col justify-between items-center border-gray-200 border shadow-md "
+                className="h-52 lg:h-60 w-56 hover:bg-gray-100  py-2 px-1 rounded-lg flex gap-3 flex-col justify-between items-center border-gray-200 border shadow-md "
                 key={product.id}>
                 <img
                     className="h-1/2 rounded-lg"

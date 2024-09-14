@@ -212,7 +212,7 @@ function ProductPage() {
                     </div>
                 </div>
             </div>
-            <div className="text-center mt-4 flex justify-evenly">
+            <div className="text-center mt-4 justify-center flex gap-3">
                 <Link
                     className="bg-black hover:opacity-90  text-white px-4 py-2 rounded-sm "
                     to="/products">Back to Products</Link>
