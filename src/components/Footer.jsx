@@ -15,9 +15,9 @@ function Footer() {
                 </div>
                 <div className="flex flex-col gap-1 ml-2">
                     <h1 className="font-bold">Reach Us</h1>
-                    <p>794 Musalman Wada Sakali Jalgaon,
+                    <p>Gate No.187/177 Vadode-Pra, Yawal
                     </p><p>
-                        Yaval-425302, Maharashtra, India                    </p>
+                        Dist- Jalgaon, Maharashtra, India                    </p>
                 </div>
 
             </div>
