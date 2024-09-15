@@ -48,7 +48,7 @@ export const abouts = [
     },
     {
         question: "Annual Turnover",
-        answer: "Rs. 50 Lakh to 1 Crore"
+        answer: "Rs. 3 to 5 Crore"
     },
     {
         question: "GST Number",
